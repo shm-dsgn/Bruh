@@ -1,2 +1,2 @@
-# Bruh
-This is just a funny little project to learn how counters work on JS
+# Bruh Soundboard
+A small project to learn how to create a sounboard with a counter for how many times the sound was played.
